@@ -1,0 +1,154 @@
+
+*{margin :0;padding :0;}
+body{
+    font-family: sans-serif;
+}
+.half-width h5{
+    font-size: 10px;
+    
+}
+.half-width h6{
+    font-size: 10px;
+    margin-bottom: -15px;
+    line-height: 10px;
+    padding-bottom: 15px;
+    color: orangered;
+}
+ .half-width p{
+    font-size: 8px;
+    line-height: 15px;
+    margin-bottom:20px;
+    color: #777;
+    width:150px;
+    
+
+}
+.half-width h4{
+    font-size:16px;
+    color: powderblue;
+
+}
+.half-width p{
+    font-size: 8px;
+    color:#999;
+}
+.half-width{
+    width:200px;
+    float:left;
+    
+    
+
+}
+.half-width img{
+    width:80%;
+}
+section{
+
+    
+    height:200px;
+    
+    
+}
+.container{
+    width:1170px;
+    
+    
+    
+
+
+}
+.topwraper{
+    width:400px;
+    margin:auto;
+    
+}
+.link-button {
+    
+    text-decoration: none;
+    background-image: linear-gradient(45deg, red,orange);
+    border-radius: 5px;
+    font-size: 15px;
+    padding:7px 7px;
+    color: white;
+    
+} 
+.dream-img img{
+    width:100%;
+}
+.section-title{
+    font-size: 10px;
+    text-align: center;
+
+} 
+.dream-img p{
+    width:120px;
+    font-size: 7px;
+  
+} 
+.dream-img h6{
+    width:100px;
+    font-size:10px;
+    margin-top:0px;
+}
+.dream-img{
+    width:30%;
+    float:left;
+    margin-right: 10px;
+}
+
+.boxes{
+    color:white;
+    margin-top:40px;
+    float:left;
+    width:150px;
+    margin-left: 10px;
+    
+}
+.content{
+    width:300px;
+ 
+}
+footer{
+    width:350px;
+    height:100px;
+    margin:auto;
+    background:skyblue;
+    border-radius: 5px;
+
+}
+.button{
+    float:right;
+    margin-top:40px;
+
+    
+}
+.link-button2{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, red,orange);
+    border-radius: 5px;
+    font-size: 15px;
+    padding:7px 7px;
+    color: white;
+    width:80px;
+
+    
+}
+ul{
+    list-style: none;
+}
+ul li a{
+    text-decoration: none;
+    font-size: 16px;
+    color: #999;
+    padding: 6px 0px;
+    display: block;
+    border-bottom: 1px solid #ddd;
+}
+.titledesc h1{
+    padding:0px;
+    margin-top:-10px;
+}
+..titledesc p{
+    line-height: 10px;
+    margin-bottom:0px;
+}
